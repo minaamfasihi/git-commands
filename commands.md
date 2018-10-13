@@ -3,3 +3,6 @@
 
 ### creates a new branch and switches to it
 ```git checkout -b new-feature```
+
+### list of branches
+```git br```
